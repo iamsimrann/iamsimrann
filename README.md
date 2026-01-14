@@ -35,22 +35,17 @@
  * Represents me.
  *
  * @constructor
- * @param {string} location - Gondia, Maharashtra, India.
- * @param {string} languagues - English, Hindi, Marathi.
- * @param {string} jobTitle - Software Engineer.
- * @param {string} specialization - Building full-fledged Backend systems and iOS applications.
- * @param {string} interests - AI, Distributed Systems & problem-solving.
- * @param {string} hobbies - Trekking, Reading, gaming & playing music.
- * @param {string} education - BTech Computer Engineering, Viswakarma Institute of Technology, Pune.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
- * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
+ * @param {string} location - India
+ * @param {string} languages - English, Hindi
+ * @param {string} education - B.E. Computer Science, Chandigarh University (2025)
+ * @param {string} role - Software Engineer | Web Developer | AI/ML Enthusiast
+ * @param {string} interests - Artificial Intelligence, Machine Learning, NLP, Cloud Computing
+ * @param {string} skills - Web Development, AI Models, Research & Problem Solving
+ * @param {string} experience - Internshala Web Dev Intern, Goldman Sachs Virtual Experience
+ * @param {string} approachable - Open to collaboration & research projects
  *
- * @throws {Punch} To any and all bugs.
- *
- * @returns {Object} Kartik.
+ * @returns {Object} Simran Pathania
  */
-```
 
 </div>
 
